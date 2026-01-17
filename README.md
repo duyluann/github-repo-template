@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has been migrated to [ops4life/github-repo-template](https://github.com/ops4life/github-repo-template). Please use the new location for all future updates and contributions.
+
 # 🛠️ GitHub Repo Template
 
 Welcome to the Template Repository on GitHub! This repository is designed to serve as a starting point for creating new Git repositories with best practices and configurations already set up. Below is a brief overview of the structure and the purpose of each file and directory in this repository.
